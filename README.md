@@ -14,3 +14,10 @@ Número de participantes: **28 pessoas**
 
 Deixo aqui nossos agradecimentos também à **Grafana Labs (Shanna Gregory, Tiago Moreira Vieira, Ewa Magiera)** e à **Faculdade Anhanguera de Piracicaba (Profa. Thalita Moschini Cavalcanti Terrini)** por todo o apoio para que o evento acontecesse.
 
+---
+
+Apresentações previstas:
+* OpenTelemetry em Produção: o que ninguém te conta nos tutoriais! - Danrlei Souza (Grafana Champion) / Ezequiel de Souza Barros (DevOps Engineer)
+* Uma stack, duas audiências: Grafana para a Engenharia e para o Negócio! - Milton Camara (Microsoft MVP)
+* IA na Observabilidade e em Testes de Performance: utilizando os MCP Servers de Grafana e k6! - Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)
+* Desafios da implementação de Observabilidade nos projetos atuais: de aplicações à infraestrutura - Renato Groffe / Milton Camara | Danrlei Souza / Ezequiel de Souza Barros
