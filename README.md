@@ -29,11 +29,13 @@ _# Uma stack, duas audiências: Grafana para a Engenharia e para o Negócio!_
 
 Palestrante: **Milton Camara (Microsoft MVP)**
 
+Tecnologias e tópicos abordados: **Grafana, OpenTelemetry, Azure, Azure Managed Grafana, Azure Monitor, Azure Log Analytics, Cloud Native, Kubernetes, Prometheus, Loki, Tempo, Observabilidade, Monitoramento, OpenTelemetry Collector...**
+
 _# IA na Observabilidade e em Testes de Performance: utilizando os MCP Servers de Grafana e k6!_
 
 Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
-Tecnologias e tópicos abordados: **Grafana, MCP, Agents, k6, Prometheus, Grafana MCP Server, k6 MCP Server, Azure Managed Grafana MCP Server, OpenTelemetry, Tempo, Loki, Grafana MCP Server, Kubernetes, Docker, Docker Compose, Containers, DevOps, Observabilidade, Monitoramento, Inteligência Artificial, LLMs, Azure Managed Grafana...**
+Tecnologias e tópicos abordados: **Grafana, MCP, Agents, k6, Prometheus, Grafana MCP Server, k6 MCP Server, Azure Managed Grafana MCP Server, OpenTelemetry, Tempo, Loki, Grafana MCP Server, Kubernetes, Docker, Docker Compose, Containers, DevOps, Observabilidade, Monitoramento, Inteligência Artificial, LLMs, Microsoft Azure, Azure Managed Grafana...**
 
 _# Painel: Desafios da implementação de Observabilidade nos projetos atuais: de aplicações à infraestrutura_
 
