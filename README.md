@@ -17,6 +17,7 @@ Deixo aqui nossos agradecimentos também à **Grafana Labs (Shanna Gregory, Tiag
 ---
 
 Apresentações/talks que aconteceram durante o evento:
+
 _# OpenTelemetry em Produção: o que ninguém te conta nos tutoriais!_
 
 Palestrantes:
