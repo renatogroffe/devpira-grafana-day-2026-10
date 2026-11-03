@@ -23,6 +23,8 @@ Palestrantes:
 - **Danrlei Souza (Grafana Champion)**
 - **Ezequiel de Souza Barros (DevOps Engineer)**
 
+Tecnologias e tópicos abordados: **OpenTelemetry, Grafana, Cloud Native, Kubernetes, Prometheus, Loki, Tempo, Observabilidade, Monitoramento, OpenTelemetry Collector...**
+
 _# Uma stack, duas audiências: Grafana para a Engenharia e para o Negócio!_
 
 Palestrante: **Milton Camara (Microsoft MVP)**
