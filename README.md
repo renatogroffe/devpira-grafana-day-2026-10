@@ -17,9 +17,19 @@ Deixo aqui nossos agradecimentos também à **Grafana Labs (Shanna Gregory, Tiag
 ---
 
 Apresentações/talks que aconteceram durante o evento:
-* OpenTelemetry em Produção: o que ninguém te conta nos tutoriais! - Danrlei Souza (Grafana Champion) / Ezequiel de Souza Barros (DevOps Engineer)
-* Uma stack, duas audiências: Grafana para a Engenharia e para o Negócio! - Milton Camara (Microsoft MVP)
-* IA na Observabilidade e em Testes de Performance: utilizando os MCP Servers de Grafana e k6! - Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)
+_# OpenTelemetry em Produção: o que ninguém te conta nos tutoriais!_
+
+Palestrantes:
+- **Danrlei Souza (Grafana Champion)**
+- **Ezequiel de Souza Barros (DevOps Engineer)**
+
+_# Uma stack, duas audiências: Grafana para a Engenharia e para o Negócio!_
+
+Palestrante: **Milton Camara (Microsoft MVP)**
+
+_# IA na Observabilidade e em Testes de Performance: utilizando os MCP Servers de Grafana e k6!_
+
+Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
 _# Painel: Desafios da implementação de Observabilidade nos projetos atuais: de aplicações à infraestrutura_
 
