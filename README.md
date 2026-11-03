@@ -31,6 +31,8 @@ _# IA na Observabilidade e em Testes de Performance: utilizando os MCP Servers d
 
 Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
+Tecnologias e tópicos abordados: **Grafana, MCP, Agents, k6, Prometheus, Grafana MCP Server, k6 MCP Server, Azure Managed Grafana MCP Server, OpenTelemetry, Tempo, Loki, Grafana MCP Server, Kubernetes, Docker, Docker Compose, Containers, DevOps, Observabilidade, Monitoramento, Inteligência Artificial, LLMs, Azure Managed Grafana...**
+
 _# Painel: Desafios da implementação de Observabilidade nos projetos atuais: de aplicações à infraestrutura_
 
 Participantes:
